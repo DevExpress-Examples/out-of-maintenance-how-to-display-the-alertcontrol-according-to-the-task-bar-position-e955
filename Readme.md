@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AlertHelper.cs](./CS/SmartAlertControl/AlertHelper.cs) (VB: [AlertHelper.vb](./VB/SmartAlertControl/AlertHelper.vb))
+* [Form1.cs](./CS/SmartAlertControl/Form1.cs) (VB: [Form1.vb](./VB/SmartAlertControl/Form1.vb))
+* [Program.cs](./CS/SmartAlertControl/Program.cs) (VB: [Program.vb](./VB/SmartAlertControl/Program.vb))
+<!-- default file list end -->
 # How to display the AlertControl according to the Task Bar position
 
 
